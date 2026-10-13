@@ -8,6 +8,6 @@ Closet Compass is an app in development designed to help business professionals 
 
 **The goal:** Help travelers pack efficiently, feel prepared, and get on with their trip.
 
-**My role:** Product concept, feature development, and user experience design through AI-assisted prototyping.
+**My role:** Founder and developer, leading product concept, feature development, and user experience design.
 
 **Status:** Prototype in development.
