@@ -2,7 +2,7 @@
 
 **Smarter packing for busy professionals.**
 
-Closet Compass is an app in development designed to help business professionals spend less time deciding what to pack. It brings wardrobe choices, trip schedules, and weather together to simplify preparation for work travel.
+Building Closet Compass, an app that helps business professionals spend less time deciding what to pack. It brings together wardrobe choices, trip schedules, and weather forecasts to make preparing for work travel simpler.
 
 **The problem:** Packing for meetings, business dinners, and downtime takes time that busy professionals would rather spend elsewhere.
 
